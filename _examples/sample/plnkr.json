@@ -1,0 +1,9 @@
+{
+  "description": "My Sample",
+  "files":[
+    "!**/*.d.ts",
+    "!**/*.js",
+    "**/assets/*.js"
+  ],
+  "tags": ["sample", "angular 2"]
+}
